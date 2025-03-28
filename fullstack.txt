@@ -6,3 +6,7 @@ How to become Fullstack Developer with PHP ✌🏻 :
 - Basic Javascript Library, React, Angular, Vue
 - Basic PHP Fundamental
 - Basic Database (SQL, MySQL, Postgree, MongoDB) Fundamental
+- Basic GIT & GITHUB
+- Basic Fundamental PHP(OOP)
+- Basic MVC(model view controller)
+- Laravel 12
